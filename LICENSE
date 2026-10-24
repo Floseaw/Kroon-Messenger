@@ -1,0 +1,87 @@
+Kroon Messenger — Proprietary License
+Copyright (c) 2026 Floseaw. All Rights Reserved.
+
+1. OWNERSHIP
+
+   This software, including its source code, design, user interface, text,
+   graphics, sounds, data files, documentation and all other materials in
+   this repository (together, the "Software"), is the exclusive property of
+   the copyright holder named above (the "Owner"). The Software is
+   protected by copyright law and international treaties. No title or
+   ownership is transferred to you by access to, or viewing of, the
+   Software.
+
+2. NO LICENSE GRANTED
+
+   No license or permission is granted to any person to use the Software
+   except as expressly stated in Section 3. In particular, without the
+   prior written permission of the Owner, you may NOT:
+
+   a) use, run, deploy or host the Software or any part of it, in any
+      environment, whether commercial or non-commercial;
+   b) copy, reproduce, mirror or clone the Software, other than as
+      described in Section 3;
+   c) modify, adapt, translate, build upon or create derivative works of
+      the Software;
+   d) distribute, publish, sublicense, sell, rent, lease, lend or otherwise
+      make the Software available to any third party;
+   e) reverse engineer, decompile or disassemble the Software, or attempt
+      to extract its source code or algorithms from any compiled or
+      packaged form, except to the extent that applicable law expressly
+      permits despite this restriction;
+   f) remove or alter any copyright, trademark or other proprietary notice;
+   g) use the Software, its name, logo or branding ("Kroon Messenger") to
+      identify, promote or imply endorsement of any other product or
+      service;
+   h) copy, scrape or otherwise collect the Software or its contents for
+      use in training, fine-tuning or evaluating machine-learning or
+      artificial-intelligence models, or for building datasets.
+
+3. LIMITED PERMISSION
+
+   Because this repository may be publicly visible on GitHub, you may view
+   the Software and, solely to the extent required by the GitHub Terms of
+   Service, fork it within the GitHub platform. This permission is limited
+   to viewing and does not grant any of the rights listed in Section 2. Any
+   fork or copy remains subject to this license in full.
+
+4. FEEDBACK
+
+   If you send suggestions, bug reports or other contributions to the
+   Owner, you grant the Owner a perpetual, worldwide, royalty-free,
+   irrevocable right to use them for any purpose without obligation to
+   you. Contributions do not give you any ownership of or rights in the
+   Software.
+
+5. TERMINATION
+
+   Any use of the Software in breach of this license automatically
+   terminates the limited permission in Section 3. The Owner may seek all
+   remedies available under applicable law, including injunctive relief
+   and damages.
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SECURITY AND
+   NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+   TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE OWNER BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+   OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+   WITH THE SOFTWARE OR THE USE OF, OR OTHER DEALINGS IN, THE SOFTWARE.
+
+8. GENERAL
+
+   If any provision of this license is held unenforceable, the remaining
+   provisions remain in full effect. The Owner's failure to enforce any
+   right is not a waiver of that right. All rights not expressly granted
+   are reserved by the Owner.
+
+9. PERMISSION REQUESTS
+
+   To request permission for any use not allowed above, contact the Owner
+   through the GitHub profile: https://github.com/Floseaw
